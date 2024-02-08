@@ -1,0 +1,12 @@
+/* styles.css */
+.active-button {
+    background-color: rgba(91, 192, 222, 0.5) !important; /* Semi-transparent blue overlay */
+    color: #fff; /* White text color */
+  }
+
+  /* styles.css */
+.title-home {
+  font-size: 24px; /* Adjust the font size */
+  font-weight: bold; /* Make it bold */
+  margin-bottom: 10px; /* Add some space at the bottom */
+}
